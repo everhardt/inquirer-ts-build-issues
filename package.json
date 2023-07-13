@@ -1,0 +1,13 @@
+{
+  "name": "inquirer-ts-build-issues",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "rm -rf dist/ && tsc"
+  },
+  "dependencies": {
+    "@inquirer/prompts": "^2.3.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
